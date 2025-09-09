@@ -1,5 +1,5 @@
 
-# UFHunt
+# UFSweep
 
 # Description
 10 seconds, 10 comets. Take control of a nimble UFO 
