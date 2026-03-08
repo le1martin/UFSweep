@@ -2,9 +2,9 @@
 # UFSweep
 
 # Description
-10 seconds, 10 comets. Take control of a nimble UFO 
+10 seconds, 10 comets. Take control of a UFO 
 and capture as many comets as you can before the timer runs out. 
-Make sure to fly quickly—do you have what it takes to catch all ten?
+Do you have what it takes to catch all ten?
 
 
 # How to Play
